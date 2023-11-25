@@ -17,8 +17,3 @@ reserva.
 espera. Si se liberan asientos debido a cancelaciones, el sistema podría asignar
 - Cancelación y Modificación de Reservas Permite a los usuarios cancelar o modificar sus
 reservas existentes, sujetos a ciertas políticas.
-
-colaboradores:
-Sara Cadavid
-Sergio Esteban
-Nelson soto 
